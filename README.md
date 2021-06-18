@@ -22,4 +22,17 @@ P(X=0, Y=0) = 1/3, P(X=1, Y=0)=1/3
 P(X=0, Y=1) = 1/6, P(X=1, Y=1)=1/6
 
 
-'''
+DYSKRETYZACJA
+	
+Dla danych z tabeli zdyskretyzowć zmienną Y pod warunkiem zmiennej X za pomocą wyznaczenia informacji wzhamenej 
+w punktach Y = (25,50,75)
+
+X Y 
+1 10
+0 11
+0 11
+1 16
+1 18
+. .
+. .
+. .
